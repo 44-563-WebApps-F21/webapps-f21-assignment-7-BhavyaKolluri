@@ -1,6 +1,9 @@
 # WebApps-F21-Assignment-7
-An assignment on java script modifying the DOM and using anonymous callback functions.
-"HOSTED AT"
+An assignment on java script modifying the DOM and using anonymous callback functions.\
+
+---
+
+**"HOSTED AT"**
 
 ---
 
